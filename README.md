@@ -2,7 +2,7 @@
 
 A machine learning-based web application that predicts the likelihood of heart disease based on patient medical data.
 
-![Demo of the application](#file:image.png)
+![Demo of the application](./assets/image.png)
 
 ## 🌟 Model Performance
 
