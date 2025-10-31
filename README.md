@@ -47,7 +47,7 @@ The system accepts the following patient parameters:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/raunakwete43/DSHS-Mini-Projecr DSHS
 cd DSHS
 ```
 
